@@ -18,5 +18,4 @@ $ npm start
 # generate static project
 $ npm run generate
 ```
-
-For detailed explanation on how things work, checkout [Nuxt.js docs](https://nuxtjs.org).
+Auth0 credentials are stored in plugins/auth0-lock.js
